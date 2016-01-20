@@ -1,0 +1,5 @@
+bower_components/
+node_modules/
+public/lib/
+public/css/main.css
+public/js/main.js

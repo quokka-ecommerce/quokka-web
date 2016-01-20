@@ -1,0 +1,24 @@
+{
+  "name": "quokka-web",
+  "description": "quokka-web",
+  "main": "./app/app.js",
+  "authors": [
+    "alex"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "quokka",
+    "frontend"
+  ],
+  "homepage": "https://github.com/quokka-ecommerce/quokka-web",
+  "moduleType": [],
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {}
+}
